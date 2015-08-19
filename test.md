@@ -1,7 +1,7 @@
 # Test merge conflicts
 
-Cool info that I need to know.
+Cool2 info that I need to know.
 
 ## More chances for conflicts
 
-Main repo.
+Main2 repo.
